@@ -1,7 +1,7 @@
 <map version="freeplane 1.8.0">
 <!--To view this file, download free mind mapping software Freeplane from http://freeplane.sourceforge.net -->
-<node TEXT="Latex公式语法" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" FOLDED="false" ID="ID_1468944773" CREATED="1584974734077" MODIFIED="1585024161620"><hook NAME="MapStyle" background="#3c3f41" zoom="0.627">
-    <properties fit_to_viewport="false" edgeColorConfiguration="#808080ff,#00ddddff,#dddd00ff,#dd0000ff,#00dd00ff,#dd0000ff,#7cddddff,#dddd7cff,#dd7cddff,#7cdd7cff,#dd7c7cff,#7c7cddff" show_icon_for_attributes="true" show_note_icons="true"/>
+<node TEXT="Latex公式语法" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" FOLDED="false" ID="ID_1468944773" CREATED="1584974734077" MODIFIED="1585024161620"><hook NAME="MapStyle" background="#3c3f41" zoom="0.518">
+    <properties show_icon_for_attributes="true" fit_to_viewport="false" show_note_icons="true" edgeColorConfiguration="#808080ff,#00ddddff,#dddd00ff,#dd0000ff,#00dd00ff,#dd0000ff,#7cddddff,#dddd7cff,#dd7cddff,#7cdd7cff,#dd7c7cff,#7c7cddff"/>
 
 <map_styles>
 <stylenode LOCALIZED_TEXT="styles.root_node" STYLE="oval" UNIFORM_SHAPE="true" VGAP_QUANTITY="24.0 pt">
@@ -89,8 +89,8 @@
     </p>
   </body>
 </html>
-
 </richcontent>
+<attribute_layout NAME_WIDTH="100.0 pt" VALUE_WIDTH="100.0 pt"/>
 <node TEXT="标记公式" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" POSITION="right" ID="ID_1406041033" CREATED="1584974753888" MODIFIED="1584975397124">
 <edge COLOR="#00dddd"/>
 <node TEXT="行内显示" ID="ID_1493583702" CREATED="1584974919865" MODIFIED="1584974953981">
