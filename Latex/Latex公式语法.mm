@@ -1,6 +1,6 @@
 <map version="freeplane 1.8.0">
 <!--To view this file, download free mind mapping software Freeplane from http://freeplane.sourceforge.net -->
-<node TEXT="Latex公式语法" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" FOLDED="false" ID="ID_1468944773" CREATED="1584974734077" MODIFIED="1585024161620"><hook NAME="MapStyle" background="#3c3f41" zoom="0.518">
+<node TEXT="Latex公式语法" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" FOLDED="false" ID="ID_1468944773" CREATED="1584974734077" MODIFIED="1585024161620"><hook NAME="MapStyle" background="#3c3f41" zoom="0.627">
     <properties show_icon_for_attributes="true" fit_to_viewport="false" show_note_icons="true" edgeColorConfiguration="#808080ff,#00ddddff,#dddd00ff,#dd0000ff,#00dd00ff,#dd0000ff,#7cddddff,#dddd7cff,#dd7cddff,#7cdd7cff,#dd7c7cff,#7c7cddff"/>
 
 <map_styles>
@@ -75,7 +75,7 @@
 </stylenode>
 </map_styles>
 </hook>
-<hook NAME="AutomaticEdgeColor" COUNTER="13" RULE="ON_BRANCH_CREATION"/>
+<hook NAME="AutomaticEdgeColor" COUNTER="14" RULE="ON_BRANCH_CREATION"/>
 <hook NAME="accessories/plugins/AutomaticLayout.properties" VALUE="ALL"/>
 <richcontent TYPE="NOTE">
 
@@ -446,6 +446,12 @@
 <node TEXT="\varOmega" ID="ID_1038912088" CREATED="1584982563403" MODIFIED="1584983509947">
 <node TEXT="\latex \varOmega" ID="ID_1277488846" CREATED="1584982575224" MODIFIED="1584983507171"/>
 </node>
+</node>
+</node>
+<node TEXT="分段函数" POSITION="left" ID="ID_1397647143" CREATED="1585839417588" MODIFIED="1585839425154">
+<edge COLOR="#dd0000"/>
+<node TEXT="\begin{cases}...\\..\end{cases}" ID="ID_801444244" CREATED="1585839428165" MODIFIED="1585839516192">
+<node TEXT="\latex $\begin{cases}1&amp;,1\\2&amp;,2\end{cases}" ID="ID_1992135691" CREATED="1585839454510" MODIFIED="1585839503634"/>
 </node>
 </node>
 <node TEXT="特殊字符" POSITION="left" ID="ID_1265398740" CREATED="1585024212678" MODIFIED="1585024246444">
